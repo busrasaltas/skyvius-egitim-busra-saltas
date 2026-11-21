@@ -12,7 +12,3 @@
 | **Telemetri** | İHA ile yer istasyonu arasında kablosuz veri iletişimi sağlar. | **Uçuş Kontrolcüsünden** 5V güç alır. | **Uçuş Kontrolcüsü** ile çift yönlü telemetri/komut verisi aktarır. |
 | **Görev Bilgisayarı** | Görüntü işleme ve otonom görevler gibi yüksek işlem gücü gerektiren işlemleri yürütür. | Regüle güç hattından (5V) beslenir. | **Uçuş Kontrolcüsü** ile çift yönlü haberleşerek otonom komut/durum verisi paylaşır. |
 
-## 2. Yararlanılan Video Bölümleri
-* **B3:** Güç dağıtımı, batarya, ESC ve motor/pervane bileşenlerinin çalışma ve eşleşme mantığı[cite: 2].
-* **B4:** Uçuş kontrolcüsü, alıcı ve telemetri bağlantıları ile kontrol/haberleşme hatları[cite: 2].
-* **B5:** Görev bilgisayarı ve yüksek seviyeli otonom/veri işleme mimarisi[cite: 2].
